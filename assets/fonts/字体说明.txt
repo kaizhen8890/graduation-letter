@@ -1,0 +1,6 @@
+﻿字体：975 Maru SC（页面内嵌子集）
+来源：https://github.com/Windfonts/975maru
+授权：SIL Open Font License 1.1（见同目录 SIL_Open_Font_License_1.1.txt）
+说明：页面只内嵌了当前文案用到的约 890 个字符（Medium 500 / Bold 700 两个字重），
+      因此文件比完整字体小很多。若大幅修改页面文字，个别新字符可能回落到系统字体，
+      这不是错误；需要完整字形时可改用完整字体或调整子集。
